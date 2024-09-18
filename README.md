@@ -1,5 +1,12 @@
 # React + TypeScript + Vite
 
+
+this is the site:
+https://app.netlify.com/sites/contador-calories-6558b2/configuration/general
+
+![image](https://github.com/user-attachments/assets/dc4d5de4-87ae-485e-a7ea-bfcc9af9abda)
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
